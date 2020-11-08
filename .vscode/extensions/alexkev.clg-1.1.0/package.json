@@ -1,0 +1,101 @@
+{
+	"name": "clg",
+	"displayName": "clg - console.log snippets",
+	"description": "console.log() shortcuts that are not boring! intuitive snippets with css styling and funny GIFs",
+	"version": "1.1.0",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"keywords": [
+		"console.log()",
+		"console",
+		"javscript",
+		"clg",
+		"styled console.log"
+	],
+	"publisher": "alexkev",
+	"repository": {
+		"url": "https://github.com/alexkev/clg"
+	},
+	"icon": "images/icon.png",
+	"contributes": {
+		"configurationDefaults": {
+			"[javascript]": {
+				"editor.suggest.snippetsPreventQuickSuggestions": true,
+				"editor.suggestSelection": "first",
+				"editor.tabCompletion": "on",
+				"editor.quickSuggestions": {
+					"other": true,
+					"comments": true,
+					"strings": true
+				},
+				"editor.suggest.localityBonus": true,
+				"editor.wordBasedSuggestions": true
+			}
+		},
+		"languages": [
+			{
+				"id": "javascript",
+				"extensions": [
+					".js",
+					".jsx",
+					".ts",
+					".tsx"
+				]
+			},
+			{
+				"id": "javascriptreact",
+				"extensions": [
+					".js",
+					".jsx",
+					".ts",
+					".tsx"
+				]
+			},
+			{
+				"id": "typescript",
+				"extensions": [
+					".js",
+					".jsx",
+					".ts",
+					".tsx"
+				]
+			},
+			{
+				"id": "typescriptreact",
+				"extensions": [
+					".js",
+					".jsx",
+					".ts",
+					".tsx"
+				]
+			}
+		],
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "fe48b88b-1f82-49f7-bf4f-865ace105e5f",
+		"publisherId": "c1176df3-6b82-4ba8-8099-6924617d25d9",
+		"publisherDisplayName": "alexkev"
+	}
+}

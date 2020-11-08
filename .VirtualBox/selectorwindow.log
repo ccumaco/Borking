@@ -1,0 +1,19 @@
+00:00:01.437440 VirtualBox GUI VM Selector Window 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:01.437442 Log opened 2020-09-25T23:45:33.311691800Z
+00:00:01.437443 Build Type: release
+00:00:01.437447 OS Product: Windows 10
+00:00:01.437448 OS Release: 10.0.18363
+00:00:01.437449 OS Service Pack: 
+00:00:01.455609 DMI Product Name: To be filled by O.E.M.
+00:00:01.461137 DMI Product Version: To be filled by O.E.M.
+00:00:01.461155 Firmware type: UEFI
+00:00:01.461525 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.461548 Host RAM: 20432MB (19.9GB) total, 12137MB (11.8GB) available
+00:00:01.461553 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.461554 Process ID: 22304
+00:00:01.461554 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.461744 Qt version: 5.6.2
+00:00:01.482151 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.222996 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:38.262726 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:59:58.436022 GUI: UIMediumEnumerator: Medium-enumeration finished!

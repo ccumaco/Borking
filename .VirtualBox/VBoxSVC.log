@@ -1,0 +1,62 @@
+00:00:00.014614 main     VirtualBox COM Server 6.1.14 r140239 win.amd64 (Sep  4 2020 08:29:36) release log
+00:00:00.014616 main     Log opened 2020-09-25T23:45:32.499962100Z
+00:00:00.014617 main     Build Type: release
+00:00:00.014639 main     OS Product: Windows 10
+00:00:00.014640 main     OS Release: 10.0.18363
+00:00:00.014641 main     OS Service Pack: 
+00:00:00.092111 main     DMI Product Name: To be filled by O.E.M.
+00:00:00.106169 main     DMI Product Version: To be filled by O.E.M.
+00:00:00.106183 main     Firmware type: UEFI
+00:00:00.106479 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.106502 main     Host RAM: 20432MB (19.9GB) total, 12147MB (11.8GB) available
+00:00:00.106508 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.106508 main     Process ID: 18724
+00:00:00.106509 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.234010          VirtualBox: object creation starts
+00:00:00.259925          Home directory: 'C:\Users\Borking\.VirtualBox'
+00:00:00.260284          Installed Drivers:
+00:00:00.282192            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.14.40239)
+00:00:00.291210            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.14.40239)
+00:00:00.303392            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.14.40239)
+00:00:00.311116            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.14.40239)
+00:00:00.359484          Loading settings file "C:\Users\Borking\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.417521          usbLibGetDevices: Starting USB device enumeration
+00:00:00.423506          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.608687          HostDnsMonitor: initializing
+00:00:00.617427          HostDnsMonitor: updating information
+00:00:00.623465          HostDnsMonitor: old information
+00:00:00.623467            no server entries
+00:00:00.623468            no domain set
+00:00:00.623468            no search string entries
+00:00:00.623469          HostDnsMonitor: new information
+00:00:00.623469            server 1: 181.70.124.110
+00:00:00.623470            server 2: 200.13.249.101
+00:00:00.623470            no domain set
+00:00:00.623471            no search string entries
+00:00:00.723690          VD: VDInit finished with VINF_SUCCESS
+00:00:00.775860          Loading settings file "C:\Users\Borking\VirtualBox VMs\Windows 10\Windows 10.vbox" with version "1.15-windows"
+00:00:00.780423          VirtualBox: object created
+00:00:02.318850          Saving settings file "C:\Users\Borking\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.362559          Saving settings file "C:\Users\Borking\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:06.018297          Launched VM: 74061024 pid: 10284 (0x282c) frontend: GUI/Qt name: Windows 10
+00:00:11.504724          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:20.644966          Saving settings file "C:\Users\Borking\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:20.783362          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:03:03.862827          Saving settings file "C:\Users\Borking\VirtualBox VMs\Windows 10\Windows 10.vbox" with version "1.15-windows"
+00:03:37.517893          Saving settings file "C:\Users\Borking\VirtualBox VMs\Windows 10\Windows 10.vbox" with version "1.15-windows"
+00:03:38.642110          Launched VM: 74079504 pid: 14492 (0x389c) frontend: GUI/Qt name: Windows 10
+00:03:42.608691          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:03:42.905616          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:11:28.069531          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:59:56.111866          Saving settings file "C:\Users\Borking\VirtualBox VMs\Windows 10\Windows 10.vbox" with version "1.15-windows"
+00:59:57.783661          Saving settings file "C:\Users\Borking\VirtualBox VMs\Windows 10\Windows 10.vbox" with version "1.15-windows"
+01:00:01.799132          Saving settings file "C:\Users\Borking\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:00:01.868977          Saving settings file "C:\Users\Borking\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:00:01.926239          Saving settings file "C:\Users\Borking\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:00:01.979860          Saving settings file "C:\Users\Borking\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:00:07.552630 main     VirtualBox: object deletion starts
+01:00:07.565288 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Borking\VirtualBox VMs\Windows 10\Windows 10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:00:07.572856 main     HostDnsMonitor: shutting down ...
+01:00:07.573090 main     HostDnsMonitor: shut down
+01:00:07.580976 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:00:07.586797 main     VirtualBox: object deleted
