@@ -1,0 +1,19 @@
+BRILLIT LORENA;CHALA PABON;bchalapa@uninpahu.edu.co;1;1001
+DANIEL GUSTAVO;ALZATE URBANO;dalzateur@uninpahu.edu.co;2;1002
+EDWIN SANTIAGO;BRICENO URIBE;ebricenour@uninpahu.edu.co;3;1003
+FABIAN ANDRES;LASSO POLANIA;flassopo@uninpahu.edu.co;4;1004
+FREDY ALEXANDER;MAPE SANABRIA;fmapesa@uninpahu.edu.co;5;1005
+JAIKAR ANDRES;MEDINA MARIANO;jmedinama02@uninpahu.edu.co;6;1006
+JAIME ANDRES;ARBOLEDA GARZON;jarboledaga@uninpahu.edu.co;7;1007
+JAVIER ANTONIO;MUNOZ GALINDO;jmunozga01@uninpahu.edu.co;8;1008
+JORGE DAVID;ESCOBAR GUTIERREZ;jescobargu01@uninpahu.edu.co;9;1009
+JUAN CAMILO;OSCATEGUI RODRIGUEZ;joscateguiro@uninpahu.edu.co;10;1010
+JUAN ESTEBAN;GOMEZ QUINTERO;jgomezqu02@uninpahu.edu.co;11;1011
+JUAN PABLO;DIAZ ALBARRACIN;jdiazal02@uninpahu.edu.co;12;1012
+JULIAN SANTIAGO;BERMUDEZ GIL;jbermudezgi@uninpahu.edu.co;13;1013
+LAURA DANIELA;SOLANO MURILLO;lsolanomu@uninpahu.edu.co;14;1014
+LUIS GUILLERMO;SANCHEZ JARABA;lsanchezja@uninpahu.edu.co;15;1015
+NICOLAS ALEXANDER;ALDANA MENDOZA;naldaname@uninpahu.edu.co;16;1016
+OSWALDO MIGUEL;MARTINEZ NAVARRO;omartinezna@uninpahu.edu.co;17;1017
+RUBEN DARIO;CONSUEGRA BRICENO;rconsuegrabr@uninpahu.edu.co;18;1018
+SANTIAGO;GOMEZ GUARIN;sgomezgu@uninpahu.edu.co;19;1019

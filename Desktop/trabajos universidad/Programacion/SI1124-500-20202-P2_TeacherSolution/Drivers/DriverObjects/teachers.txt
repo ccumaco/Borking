@@ -1,0 +1,10 @@
+BRILLIT LORENA;CHALA PABON;bchalapa@uninpahu.edu.co;1;31001
+DANIEL GUSTAVO;ALZATE URBANO;dalzateur@uninpahu.edu.co;2;31002
+EDWIN SANTIAGO;BRICENO URIBE;ebricenour@uninpahu.edu.co;3;31003
+FABIAN ANDRES;LASSO POLANIA;flassopo@uninpahu.edu.co;4;31004
+FREDY ALEXANDER;MAPE SANABRIA;fmapesa@uninpahu.edu.co;5;31005
+JAIKAR ANDRES;MEDINA MARIANO;jmedinama02@uninpahu.edu.co;6;31006
+JAIME ANDRES;ARBOLEDA GARZON;jarboledaga@uninpahu.edu.co;7;31007
+JAVIER ANTONIO;MUNOZ GALINDO;jmunozga01@uninpahu.edu.co;8;31008
+JORGE DAVID;ESCOBAR GUTIERREZ;jescobargu01@uninpahu.edu.co;9;31009
+JUAN CAMILO;OSCATEGUI RODRIGUEZ;joscateguiro@uninpahu.edu.co;10;31010
